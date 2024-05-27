@@ -1,3 +1,6 @@
+# Rest-Countries-App
+Where in the world
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
