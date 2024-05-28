@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { RxReload } from 'react-icons/rx'
 import axios from 'axios';
-import Button from '../components/Button/Button';
+import Button from '../Components/Button/Button';
 
 const Infopage = () => {
   const { countryName } = useParams();
